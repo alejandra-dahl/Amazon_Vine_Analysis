@@ -2,10 +2,12 @@
 
 ## Overview
 
-Explain the purpose of this analysis.
+Manufacturers and publishers receive reviews for their products throught the Amazon Vine program service. SellBy, a company that sells on Amazon, pays a a fee to have Amazon Vine members review their products. This helps them build credibility and a customer base.
 
 
 ### Purpose
+
+The purpose of this analysis was to compare Vine and non-Vine reviews to determine if their is any bias toward favorable reviews, coming from Vine members.
 
 
 ## Results
