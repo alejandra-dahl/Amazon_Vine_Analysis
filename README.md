@@ -12,7 +12,10 @@ The purpose of this analysis was to compare Vine and non-Vine reviews to determi
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions:
+The dataset that was chosen for this analysis can be found [here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Jewelry_v1_00.tsv.gz) This dataset consisted of Amazon reviews for jewelry. Using this dataset, the following questions were addressed in the analysis.
+
+![image](https://user-images.githubusercontent.com/90485451/155902838-3555b944-6c26-47f3-a88f-9c12cb6804ef.png)
+
 
   - How many Vine reviews and non-Vine reviews were there?
 
