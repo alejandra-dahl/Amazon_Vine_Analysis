@@ -19,13 +19,33 @@ The dataset that was chosen for this analysis can be found [here](https://s3.ama
 
   **- How many Vine reviews and non-Vine reviews were there?**
   
-   In order for this analysis to have the most credibility, the dataset was filtered into a dataframe to show only reviews that were more likly to be helpful and avoid division    by zero errors later. From there, another DataFrame was created to retrieve all the rows where a review was written as part of the vine program ('Y'). There were a total of      **21 vine reviews**. 
+     In order for this analysis to have the most credibility, the dataset was filtered into a dataframe to show only reviews 
+     
+     that were more likly to be helpful and avoid division by zero errors later. From there, DataFrames were created to retrieve 
+     
+     all the rows where a review was written as part of the vine program ('Y') and reviews that were non-Vine. 
+     
+     There were a total of **21 vine reviews** and **7,689 non-vine reviews**. 
 
-  **- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 starts?**
+  **- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
   
-   From those 21 vine rviews, the dataset was then filtered in another DataFrame to retrieve rows that had a 5-star review. There were a total of **11 5-star vine reviews**        from the 21 vine reviews.
+      From those 21 vine rviews, the dataset was then filtered in another DataFrame to retrieve Vine reviews 
+      
+      that had a 5-star review. There were a total of **11 5-star vine reviews**. The same was done for non-Vine reviews which 
+      
+      had a total of **4,444 non-vine 5-star reviews.**
 
-  - What percentage of Vine reviews were 5 starts? What percentage of non-Vine reviews were 5 starts?
+  **- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+  
+  Percentages were then calculated for each result. There were - 
+  
+      57.8% of unpaid reviews with 5-stars
+  
+      52.38% of paid reviews with 5-stars
+      
+      
+![image](https://user-images.githubusercontent.com/90485451/155904174-ee65111e-f748-4439-b21b-8aead228278a.png)
+
 
 
 ## Summary
