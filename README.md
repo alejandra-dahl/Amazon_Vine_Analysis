@@ -47,9 +47,8 @@ The dataset that was chosen for this analysis can be found [here](https://s3.ama
 ![image](https://user-images.githubusercontent.com/90485451/155904174-ee65111e-f748-4439-b21b-8aead228278a.png)
 
 
-
 ## Summary
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+The results show that there doesn't seem to be much bias between paid and unpaid reviews - as seen from 5 star reviews. It was also interesting to see that there were more non-Vine reviews than paid reviews. This shows that the product is very favorable in the marketplace and the seller could probably go without paid reviews.
 
-
+An additional analysis that could be done in the future is look at reviews that are 3-stars or less and seeing how many of those are paid vs non-paid.
