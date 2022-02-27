@@ -17,9 +17,13 @@ The dataset that was chosen for this analysis can be found [here](https://s3.ama
 ![image](https://user-images.githubusercontent.com/90485451/155902838-3555b944-6c26-47f3-a88f-9c12cb6804ef.png)
 
 
-  - How many Vine reviews and non-Vine reviews were there?
+  **- How many Vine reviews and non-Vine reviews were there?**
+  
+   In order for this analysis to have the most credibility, the dataset was filtered into a dataframe to show only reviews that were more likly to be helpful and avoid division    by zero errors later. From there, another DataFrame was created to retrieve all the rows where a review was written as part of the vine program ('Y'). There were a total of      **21 vine reviews**. 
 
-  - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 starts?
+  **- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 starts?**
+  
+   From those 21 vine rviews, the dataset was then filtered in another DataFrame to retrieve rows that had a 5-star review. There were a total of **11 5-star vine reviews**        from the 21 vine reviews.
 
   - What percentage of Vine reviews were 5 starts? What percentage of non-Vine reviews were 5 starts?
 
